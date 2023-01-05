@@ -17,6 +17,10 @@
     border: 0;
     padding: 12px 25px;
 }
+.btn-primary1{
+    background: #FFF8F3;
+    padding: 12px 25px;
+}
 .header{
     background: #fff8f3;
     background-image: url("../images/header_bg.png"), url("../images/developer.png");
